@@ -1,0 +1,6 @@
+[submodule "Beginners"]
+	path = Beginners
+	url = https://www.github.com/MondayMorningHaskell/Beginners
+[submodule "RustBeginners"]
+	path = RustBeginners
+	url = https://github.com/MondayMorningHaskell/RustBeginners
