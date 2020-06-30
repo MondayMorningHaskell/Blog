@@ -4,3 +4,6 @@
 [submodule "RustBeginners"]
 	path = RustBeginners
 	url = https://github.com/MondayMorningHaskell/RustBeginners
+[submodule "RustWeb"]
+	path = RustWeb
+	url = https://github.com/MondayMorningHaskell/RustWeb
