@@ -7,3 +7,6 @@
 [submodule "RustWeb"]
 	path = RustWeb
 	url = https://github.com/MondayMorningHaskell/RustWeb
+[submodule "Monads"]
+	path = Monads
+	url = https://github.com/MondayMorningHaskell/Monads
