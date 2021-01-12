@@ -10,3 +10,6 @@
 [submodule "Monads"]
 	path = Monads
 	url = https://github.com/MondayMorningHaskell/Monads
+[submodule "Testing"]
+	path = Testing
+	url = https://github.com/MondayMorningHaskell/Testing
