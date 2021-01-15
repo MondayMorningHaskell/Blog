@@ -13,3 +13,6 @@
 [submodule "Testing"]
 	path = Testing
 	url = https://github.com/MondayMorningHaskell/Testing
+[submodule "HaskellData"]
+	path = HaskellData
+	url = https://github.com/MondayMorningHaskell/HaskellData
