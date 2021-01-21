@@ -16,3 +16,6 @@
 [submodule "HaskellData"]
 	path = HaskellData
 	url = https://github.com/MondayMorningHaskell/HaskellData
+[submodule "RealWorldHaskell"]
+	path = RealWorldHaskell
+	url = https://github.com/MondayMorningHaskell/RealWorldHaskell.git
