@@ -19,3 +19,6 @@
 [submodule "RealWorldHaskell"]
 	path = RealWorldHaskell
 	url = https://github.com/MondayMorningHaskell/RealWorldHaskell.git
+[submodule "Parsing"]
+	path = Parsing
+	url = https://github.com/MondayMorningHaskell/Parsing
