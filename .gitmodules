@@ -22,3 +22,6 @@
 [submodule "Parsing"]
 	path = Parsing
 	url = https://github.com/MondayMorningHaskell/Parsing
+[submodule "APIs"]
+	path = APIs
+	url = https://github.com/MondayMorningHaskell/APIs
